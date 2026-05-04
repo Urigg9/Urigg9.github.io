@@ -21,7 +21,7 @@ navbar-links:
 avatar: "/images/myimage.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: false
+round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
@@ -37,7 +37,7 @@ round-avatar: false
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   github: Urigg9
-  linkedin: Oriol Galimany
+  linkedin: www.linkedin.com/in/oriol-galimany-garriga-2207812a6
 
 ###########################
 # --- General options --- #
